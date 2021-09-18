@@ -33,6 +33,12 @@
 
     <name>PlayerInput</name>
 
+    <parent>
+        <groupId>me.bkrmt</groupId>
+        <artifactId>extras</artifactId>
+        <version>EXTRAS-PARENT</version>
+    </parent>
+
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
